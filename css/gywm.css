@@ -5,3 +5,14 @@
 .nav_twsj, .nav_yyzz, .nav_wzjs, .nav_wlfw, .nav_jypx, .nav_jrwm, .nav_index {
 	background: #00cccc;
 }
+
+#main_left {
+	margin: 12px 12px 12px 2px;
+	width: 360px;
+	float: left;
+}
+
+#wnwl_logo {
+	width: 360px;
+	height: 360px;
+}

@@ -12,6 +12,7 @@ body {
 
 #page_header {
 	margin: 10px 2px 2px 0;
+	clear: both;
 }
 
 #header_logo {
@@ -67,6 +68,7 @@ body {
 
 #page_footer {
 	margin: 0 auto;
+	margin-top: 12px;
 	text-align: center;
 	color: #ffffff;
 	background: #00cccc;
@@ -75,4 +77,5 @@ body {
 	line-height: 32px;
 	border: 2px solid #ffffff;
 	border-radius: 5px;
+	clear: both;
 }

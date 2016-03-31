@@ -5,3 +5,47 @@
 .nav_twsj, .nav_yyzz, .nav_wzjs, .nav_wlfw, .nav_index, .nav_jrwm, .nav_gywm {
 	background: #00cccc;
 }
+
+#main_left {
+	margin: 12px 2px 12px 2px;
+	float: left;
+	clear: both;
+}
+
+#train_table {
+	width: 956px;
+	border-left: 2px solid #00cccc;
+	border-bottom: 2px solid #00cccc;
+	border-collapse: collapse;
+}
+
+#train_table th, #train_table td {
+	border-right: 2px solid #00cccc;
+	border-top: 2px solid #00cccc;
+	border-collapse: collapse;
+	line-height: 36px;
+	height: 36px;
+}
+
+#train_table th {
+	color: #00cccc;
+	font-size: 18px;
+}
+
+.train_5 {
+	color: #00cccc;
+	font-size: 16px;
+	text-align: center;
+}
+
+.train_1, .train_5 {
+	width: 120px;
+}
+
+.train_2 {
+	width: 180px;
+}
+
+.train_3 {
+	width: 60px;
+}
