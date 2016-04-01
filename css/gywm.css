@@ -7,9 +7,25 @@
 }
 
 #main_left {
-	margin: 12px 12px 12px 2px;
+	margin: 16px 12px 16px 2px;
 	width: 360px;
 	float: left;
+}
+
+#main_right {
+	display: block;
+	width: 550px;
+	float: right;
+	margin: 16px 2px 16px 12px;
+	padding: 0;
+}
+
+#main_right p {
+	margin: 0;
+	font-size: 16px;
+	line-height: 35px;
+	text-align: justify;
+	text-indent: 32px;
 }
 
 #wnwl_logo {
