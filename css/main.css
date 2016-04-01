@@ -73,9 +73,19 @@ body {
 	color: #ffffff;
 	background: #00cccc;
 	width: 956px;
-	height: 32px;
-	line-height: 32px;
+	height: 36px;
+	line-height: 36px;
 	border: 2px solid #ffffff;
 	border-radius: 5px;
 	clear: both;
+}
+
+#page_footer a {
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#page_footer a:hover {
+	color: #ff8888;
 }
