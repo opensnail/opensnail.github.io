@@ -23,8 +23,8 @@
 	border-right: 2px solid #00cccc;
 	border-top: 2px solid #00cccc;
 	border-collapse: collapse;
-	line-height: 36px;
-	height: 36px;
+	line-height: 42px;
+	height: 42px;
 }
 
 #train_table th {
@@ -35,17 +35,23 @@
 .train_5 {
 	color: #00cccc;
 	font-size: 16px;
-	text-align: center;
 }
 
 .train_1, .train_5 {
-	width: 120px;
+	width: 113px;
+	text-align: center;
 }
 
 .train_2 {
-	width: 180px;
+	width: 148px;
+	text-align: center;
 }
 
 .train_3 {
-	width: 60px;
+	width: 50px;
+	text-align: center;
+}
+
+.train_4 {
+	padding: 0 0 0 6px;
 }
