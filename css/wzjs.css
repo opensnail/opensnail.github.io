@@ -5,3 +5,57 @@
 .nav_twsj, .nav_yyzz, .nav_index, .nav_wlfw, .nav_jypx, .nav_jrwm, .nav_gywm {
 	background: #00cccc;
 }
+
+#website_left {
+	width: 465px;
+	float: left;
+	margin: 12px 0 12px 2px;
+	padding: 0;
+	clear: left;
+	border: 1px solid #00cccc;
+}
+
+#website_right {
+	width: 465px;
+	float: right;
+	margin: 12px 2px 12px 0;
+	padding: 0;
+	clear: right;
+	border: 1px solid #00cccc;
+}
+
+.website_img_left {
+	width: 463px;
+	float: left;
+	margin: 0;
+	border: 1px solid #eeeeee;
+}
+
+.website_text_left {
+	width: 465px;
+	float: left;
+	text-align: center;
+	font-size: 16px;
+	color: #00cccc;
+	height: 32px;
+	line-height: 32px;
+	margin: 0;
+}
+
+.website_img_right {
+	width: 463px;
+	float: right;
+	margin: 0;
+	border: 1px solid #eeeeee;
+}
+
+.website_text_right {
+	width: 465px;
+	float: right;
+	text-align: center;
+	font-size: 16px;
+	color: #00cccc;
+	height: 32px;
+	line-height: 32px;
+	margin: 0;
+}
